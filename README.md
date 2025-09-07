@@ -1,6 +1,6 @@
 # Projeto de Banco de Dados - Escola (PostgreSQL)
 
-Este repositório contém a modelagem e implementação de um banco de dados de **escola**, desenvolvido em **PostgreSQL**. Inclui tabelas, sequências, chaves primárias e estrangeiras, além de registros de exemplo.
+Este repositório contém a modelagem e implementação de um banco de dados de **escola**, desenvolvido em **SQL**. Inclui tabelas, sequências, chaves primárias e estrangeiras, além de registros de exemplo.
 
 ---
 
@@ -42,3 +42,4 @@ Este repositório contém a modelagem e implementação de um banco de dados de 
 - **Inscrições:** Relacionam alunos com cursos em datas específicas  
 
 ---
+
