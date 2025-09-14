@@ -4,6 +4,8 @@ Este repositório contém a modelagem e implementação de um banco de dados de 
 
 ---
 
+![DER](./der.png)
+
 ## Estrutura do Banco
 
 ### Tabelas principais
@@ -42,4 +44,5 @@ Este repositório contém a modelagem e implementação de um banco de dados de 
 - **Inscrições:** Relacionam alunos com cursos em datas específicas  
 
 ---
+
 
